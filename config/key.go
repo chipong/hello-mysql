@@ -1,0 +1,10 @@
+package config
+
+var (
+	MYSQL_DB        = "MYSQL_DB"
+	MYSQL_HOST      = "MYSQL_HOST"
+	MYSQL_PORT      = "MYSQL_PORT"
+	MYSQL_USER      = "MYSQL_USER"
+	MYSQL_PASS      = "MYSQL_PASS"
+	MYSQL_SSL_MODE  = "MYSQL_SSL_MODE"
+)
