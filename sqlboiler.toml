@@ -12,6 +12,6 @@ add-enum-types = true
   sslmode = "false"
   tinyint_as_int = true
 
-  [auto-columns]
-    created = "createdAt"
-    updated = "updatedAt"
+[auto-columns]
+  created = "createdAt"
+  updated = "updatedAt"
